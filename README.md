@@ -40,7 +40,7 @@ https://github.com/pkorus/jpeg-mbfdf-forensics
 https://github.com/pkorus/multiscale-prnu
 
 8.General methods
-
+所谓的matlab工具箱就是这个
 https://github.com/MKLab-ITI/image-forensics
 
 9.CNN networks
